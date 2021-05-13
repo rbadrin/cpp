@@ -29,6 +29,7 @@ int solve(){
   int n;
   cin>>n;
   vector<int> a;
+  cout<<"hello";
   return 0;
 }
 int main(){
