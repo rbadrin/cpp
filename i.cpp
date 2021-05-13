@@ -30,6 +30,7 @@ int solve(){
   cin>>n;
   vector<int> a;
   cout<<"hello";
+  cout<<"incoidc";
   return 0;
 }
 int main(){
